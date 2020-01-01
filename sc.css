@@ -1,0 +1,15 @@
+.centerText{
+    text-align: center;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.centerCalc{
+    margin: auto;
+    width:90%;
+    padding: 10px;
+}
