@@ -16,3 +16,5 @@ Your goal is to walk 10,000 steps per day.  Say you 3765 steps when you arrive h
 6,235 / 1,896 = 3.28 miles.
 
 10,000 / 1896 = 5.27 miles per day.
+
+## References
