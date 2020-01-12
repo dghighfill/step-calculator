@@ -40,9 +40,8 @@ function calculateByMiles() {
 function writeToStorage(){
     if( typeof( Storage ) !== "undefined" ){
         localStorage.stepGoal = document.getElementById("txtGoal").value;
-        localStorage.divsor = document.getElementById("txtDivisor").value;
+        localStorage.divisor = document.getElementById("txtDivisor").value;
     }
-
 }
 
 function readFromStorage(){
